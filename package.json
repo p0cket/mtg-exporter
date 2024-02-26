@@ -1,6 +1,7 @@
 {
   "name": "mtg-exporter",
   "version": "0.1.0",
+  "homepage": "https://p0cket.github.io/mtg-exporter",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
